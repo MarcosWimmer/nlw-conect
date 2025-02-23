@@ -3,17 +3,18 @@
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-HTML e CSS
-JavaScript
-Git e Github  
-Figma  
-
+* HTML e CSS  
+* JavaScript  
+* Git e Github    
+* Figma  
 
 
 ## 💻 Projeto
 A página é um sistema onde poderá se inscrever, gerar um link personalizado de convite e acompanhar quantas pessoas se registraram através do seu link.
 
-    
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.    
 
 
 ##### Projeto codificado e concluído por Marcos A. Wimmer!
